@@ -1,1 +1,1 @@
-This repository about snake game by using pyhton and turtle.
+This repository is about snake game by using pyhton and turtle.
